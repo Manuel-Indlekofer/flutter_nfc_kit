@@ -112,9 +112,11 @@ packages:
   ndef:
     dependency: transitive
     description:
-      name: ndef
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: fix_typo
+      resolved-ref: ff9bab37aa0852eb48c52e4ee9d40c05a6ab021e
+      url: "https://github.com/Manuel-Indlekofer/ndef.git"
+    source: git
     version: "0.2.2"
   path:
     dependency: transitive

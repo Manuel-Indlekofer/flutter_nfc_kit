@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
   json_annotation: ^3.0.1
-  ndef: ^0.2.2
+  ndef:
+   git:
+    url: "https://github.com/Manuel-Indlekofer/ndef.git"
+    ref: "fix_typo"
 
 dev_dependencies:
   flutter_test:
